@@ -1,0 +1,17 @@
+E:\WPF\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe.config
+E:\WPF\WPFDemo\WPFDemo\bin\Debug\WPFDemo.exe
+E:\WPF\WPFDemo\WPFDemo\bin\Debug\WPFDemo.pdb
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csprojAssemblyReference.cache
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\MainWindow.g.cs
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\App.g.cs
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.cache
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo_MarkupCompile.lref
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\MainWindow.baml
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.g.resources
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.Properties.Resources.resources
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.GenerateResource.cache
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.csproj.CoreCompileInputs.cache
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.exe
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\WPFDemo.pdb
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\ContactCard.g.cs
+E:\WPF\WPFDemo\WPFDemo\obj\Debug\ContactCard.baml
